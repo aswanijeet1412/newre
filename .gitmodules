@@ -4,3 +4,6 @@
 [submodule "themes/academia"]
 	path = themes/academia
 	url = https://github.com/aswanijeet1412/academia
+[submodule "themes/acad"]
+	path = themes/acad
+	url = https://github.com/aswanijeet1412/academimal
